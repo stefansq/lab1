@@ -1,5 +1,5 @@
 package lab;
-
+//author:stefan
 import java.io.*;
 import java.util.*;
 import java.util.regex.Matcher;
