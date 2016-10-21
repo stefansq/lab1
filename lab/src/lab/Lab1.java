@@ -1,5 +1,10 @@
 package lab;
+<<<<<<< HEAD
 //author:stefan
+=======
+//lab1 lab1 lab1
+
+>>>>>>> C4
 import java.io.*;
 import java.util.*;
 import java.util.regex.Matcher;
