@@ -1,10 +1,14 @@
 package lab;
 <<<<<<< HEAD
+<<<<<<< HEAD
 //author:stefan
 =======
 //lab1 lab1 lab1
 
 >>>>>>> C4
+=======
+//stefansq
+>>>>>>> B2
 import java.io.*;
 import java.util.*;
 import java.util.regex.Matcher;
